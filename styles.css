@@ -1,0 +1,40 @@
+
+body{
+    background-image: url(https://www.shutterstock.com/image-vector/3d-rendering-podium-kid-style-260nw-2037088661.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.main {
+    text-align: center;
+    height: 700px;
+    width: 100%;
+    padding: 15%;
+    font-family: cursive;
+    
+  }
+  
+  .heading{
+  color: magenta;
+    font-family: cursive;
+    font-weight: bold;
+  }
+  .input{
+    background-color:black;
+    color: aqua;
+    font-family: cursive;
+  }
+  
+  button {
+    padding: 5px 10px;
+    cursor: pointer;
+   background-color: black;
+   color: aqua;
+   font-family: cursive;
+  }
+  button:hover{
+    transform: scale(1.03);
+  }
+  
+  
+  
+  
